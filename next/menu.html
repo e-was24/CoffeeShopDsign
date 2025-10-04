@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CoffeShop | Menu</title>
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="content.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+
+</head>
+
+<body>
+    <button id="SHbtn">menu</button>
+    <nav class="navbar" id="navbar">
+        <div class="title">
+            <h2>Coffee<span>Shop</span></h2>
+        </div>
+        <ul class="menu">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="">Order</a></li>
+            <li><a href="">Menu</a></li>
+            <li><a href="">Contact</a></li>
+            <a class="cart" href="">
+                <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#4B77D1"><path d="m480-576-51-51 57-57H336v-72h150l-57-57 51-51 144 144-144 144ZM263.79-96Q234-96 213-117.21t-21-51Q192-198 213.21-219t51-21Q294-240 315-218.79t21 51Q336-138 314.79-117t-51 21Zm432 0Q666-96 645-117.21t-21-51Q624-198 645.21-219t51-21Q726-240 747-218.79t21 51Q768-138 746.79-117t-51 21ZM48-792v-72h133l155 360h301l113-264h78L703-476q-9 20-26.5 32T637-432H317l-42 72h493v72H276q-42 0-63-36.5t0-71.5l52-90-131-306H48Z"/></svg>
+            </a>
+        </ul>
+    </nav>
+
+    <!-- body content -->
+
+    <div class="container">
+        <div id="product"></div>
+    </div>
+</body>
+<script src="script.js"></script>
+<script src="fecthProduk.js"></script>
+<script src="animation.js"></script>
+
+</html>

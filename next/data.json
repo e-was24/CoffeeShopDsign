@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Espresso Klasik",
+            "price": 18000,
+            "description": "Single shot, kaya rasa, body penuh.",
+            "image": "https://media.istockphoto.com/id/512187949/id/foto/secangkir-kopi.jpg?s=612x612&w=0&k=20&c=a7kwtpoC6oenjm2g7VmospZSlGH5bzdSfEi_6pS5h-0=",
+            "category": "Hot",
+            "stock": 20
+        },
+        {
+            "id": 2,
+            "name": "Cappuccino",
+            "price": 25000,
+            "description": "Espresso + susu berbusa, sentuhan cokelat.",
+            "image": "https://media.istockphoto.com/id/1425432406/id/foto/latte-panas.jpg?s=612x612&w=0&k=20&c=Xo_ZAg6RtIkMQcGuagoLXrjyxtyXUVstvEDJV0E8Zwg=",
+            "category": "Hot",
+            "stock": 15
+        },
+        {
+            "id": 3,
+            "name": "Latte Vanila",
+            "price": 30000,
+            "description": "Susu lembut dan sirup vanila alami.",
+            "image": "https://media.istockphoto.com/id/995501426/id/foto/latte-kopi-panas-terisolasi-di-latar-belakang-putih.jpg?s=612x612&w=0&k=20&c=XUEdNPWHj5o9nbveqZQmrf6bK6WSoyzOS5sNlJ7kf_k=",
+            "category": "Hot",
+            "stock": 12
+        },
+        {
+            "id": 4,
+            "name": "Iced Americano",
+            "price": 22000,
+            "description": "Espresso dingin dengan air dan es.",
+            "image": "https://media.istockphoto.com/id/2165454370/id/foto/menu-kopi-es-americano-untuk-khusus-diletakkan-di-latar-belakang-putih-disajikan-di-atas.jpg?s=612x612&w=0&k=20&c=XsrMq0tHoBUv3CRIS72DyIwMEjc5oOC3UZhQdKk10Vg=",
+            "category": "Cold",
+            "stock": 18
+        },
+        {
+            "id": 5,
+            "name": "Mocha Cokelat",
+            "price": 32000,
+            "description": "Perpaduan cokelat dan espresso yang manis.",
+            "image": "https://media.istockphoto.com/id/529748275/id/foto/secangkir-cokelat-panas-dengan-kenari.jpg?s=612x612&w=0&k=20&c=Pe62QoOze8cOl9wqhxgG7EAdiszoeAKrj3Hj_GY2esg=",
+            "category": "Hot",
+            "stock": 10
+        },
+        {
+            "id": 6,
+            "name": "Affogato",
+            "price": 35000,
+            "description": "Espresso panas dituangkan ke atas es krim vanila.",
+            "image": "https://media.istockphoto.com/id/1371147621/id/foto/sebagian-es-krim-dalam-gelas-kristal-di-papan-kayu-dituangkan-dengan-minuman-keras-dari-botol.jpg?s=612x612&w=0&k=20&c=4xDRrhJu5n1R8svzRQ_k9k4Qs3BYkhc9MMdy9NukvBA=",
+            "category": "Dessert",
+            "stock": 8
+        }
+    ]
+}
